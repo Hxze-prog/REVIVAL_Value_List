@@ -92857,15 +92857,16 @@ $S:50}
 A.vG.prototype={
 K(a){var s,r,q,p,o,n,m=this,l=null,k={},j=A.bJ(a,l,t.w).w.a.a
 k.a=null
-s=140
 if(j<700){k.a=12
-r=14}else if(j>=700&&j<1022){k.a=15
-r=17}else{k.a=18
-r=20
-s=160}q=A.eA(10)
-p=A.aFx(B.Br,A.aBK(m.c,new A.afP(),B.BO,s,new A.afQ(),1/0),B.c1)
+s=14
+r=120}else if(j>=700&&j<1022){k.a=15
+s=17
+r=140}else{k.a=18
+s=20
+r=160}q=A.eA(10)
+p=A.aFx(B.Br,A.aBK(m.c,new A.afP(),B.BO,r,new A.afQ(),1/0),B.c1)
 o=t.p
-n=A.c([A.fY(A.c0(m.d,2,B.aJ,l,l,A.eN(l,l,l,l,l,l,l,l,l,l,l,r,l,l,B.aB,l,l,!0,l,l,l,l,l,l,l,l),B.ih,l),l,l),B.R4],o)
+n=A.c([A.fY(A.c0(m.d,2,B.aJ,l,l,A.eN(l,l,l,l,l,l,l,l,l,l,l,s,l,l,B.aB,l,l,!0,l,l,l,l,l,l,l,l),B.ih,l),l,l),B.R4],o)
 B.b.T(n,new A.a4(A.c(["Normal: "+m.f,"Gold: "+m.r,"Rainbow: "+m.w],t.s),new A.afR(k),t.bg))
 return A.v3(!1,l,!0,A.aFq(A.ff(A.c([p,new A.by(B.c6,A.ff(n,B.cr,B.N,B.aa),l)],o),B.cK,B.N,B.aa),3,new A.ct(q,B.n)),l,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l)}}
 A.afQ.prototype={
