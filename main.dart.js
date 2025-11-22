@@ -92593,7 +92593,7 @@ s=q}while(true)switch(s){case 0:q=3
 m=o.d.dl("logs")
 l=$.KM().pb()
 s=6
-return A.N(m.F(0,A.an(["message",a,"createdAt",new A.jx(l,l),"user",o.a.c,"action",b,"type","Value List Logs","name",o.gtn()],t.N,t.z)),$async$pr)
+return A.N(m.F(0,A.an(["message",a,"createdAt",new A.jx(l,l),"user",o.a.c,"actiontype",b,"type","Value List Logs","name",o.gtn()],t.N,t.z)),$async$pr)
 case 6:q=1
 s=5
 break
@@ -93036,7 +93036,7 @@ s=q}while(true)switch(s){case 0:q=3
 m=o.d.dl("logs")
 l=$.KM().pb()
 s=6
-return A.N(m.F(0,A.an(["message",a,"createdAt",new A.jx(l,l),"user",o.a.c,"action",b,"type","Account Logs","name",o.gtb()],t.N,t.z)),$async$pt)
+return A.N(m.F(0,A.an(["message",a,"createdAt",new A.jx(l,l),"user",o.a.c,"actiontype",b,"type","Account Logs","name",o.gtb()],t.N,t.z)),$async$pt)
 case 6:q=1
 s=5
 break
